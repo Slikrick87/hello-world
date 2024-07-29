@@ -1,2 +1,3 @@
 # hello-world
-project for code kentucky
+project to better undestand the flow of github
+/* project for code kentucky*/
